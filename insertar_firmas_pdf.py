@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+VERSIÓN PARA USO EN LOCAL.
 Aplicación para insertar firmas en PDFs - VERSIÓN MEJORADA
 Con mejor manejo de errores y logging detallado
 """
